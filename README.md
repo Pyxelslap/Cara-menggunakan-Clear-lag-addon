@@ -25,4 +25,5 @@ Husk,
 Zombie,
 XP orb,
 Skeleton,
-Cow
+Cow,
+Slime
