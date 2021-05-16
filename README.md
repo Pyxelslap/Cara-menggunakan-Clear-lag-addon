@@ -15,3 +15,14 @@ Gunakan perintah dengan format /tag @a add (Entititas sampah!)
 
 Contoh:
 <a href="https://1.bp.blogspot.com/-mUQZfx4YtKQ/YKDIOgPbxzI/AAAAAAAAARU/1nlgDGugxiI_aotommDm9nv3HTG3QOyPACLcBGAsYHQ/s0/Tangkapan_Layar_20210516-14995.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="84" data-original-width="1280" src="https://1.bp.blogspot.com/-mUQZfx4YtKQ/YKDIOgPbxzI/AAAAAAAAARU/1nlgDGugxiI_aotommDm9nv3HTG3QOyPACLcBGAsYHQ/s0/Tangkapan_Layar_20210516-14995.png"/></a></div>
+Untuk saat ini Belum mendukung semua entititas tapi aku janji akan menambahkan Mob² yang lain
+
+Untuk sekarang Yang tersedia hanyalah mob² yang meresahkan saja
+
+Daftar mob² yang didukung:
+Creeper,
+Husk,
+Zombie,
+XP orb,
+Skeleton,
+Cow
